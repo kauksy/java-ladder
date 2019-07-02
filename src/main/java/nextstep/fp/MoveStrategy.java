@@ -1,4 +1,4 @@
-package nextstep.step1.fp;
+package nextstep.fp;
 
 public interface MoveStrategy {
     boolean isMovable();

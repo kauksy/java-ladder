@@ -1,4 +1,4 @@
-package nextstep.step1.fp;
+package nextstep.fp;
 
 @FunctionalInterface
 public interface Conditional {

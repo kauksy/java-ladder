@@ -1,4 +1,4 @@
-package nextstep.step1.optional;
+package nextstep.optional;
 
 public class Computer {
 	private Soundcard soundcard;

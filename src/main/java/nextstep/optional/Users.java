@@ -1,4 +1,4 @@
-package nextstep.step1.optional;
+package nextstep.optional;
 
 import java.util.Arrays;
 import java.util.List;
